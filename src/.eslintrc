@@ -1,0 +1,7 @@
+{
+  "extends": "vue",
+  "parserOptions": {
+    "ecmaVersion": 11,
+    "sourceType": "module"
+  }
+}
